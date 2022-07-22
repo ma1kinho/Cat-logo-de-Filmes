@@ -1,7 +1,7 @@
 Instruções de como rodar a aplicação:
 
 1. Primeiro é necessário ter o java instalado no seu computador (pode ser baixado em
-https://www.java.com/pt-BR/download/manual.jsp)
+https://www.java.com/pt-BR/download/manual.jsp, versão abaixo da 6)
 
 2. Baixar os arquivos Server.java, Client.java e ThreadSockets.java. Os 3 arquivos devem ser salvos na mesma pasta
 
